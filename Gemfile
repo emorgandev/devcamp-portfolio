@@ -55,3 +55,5 @@ gem 'devise', '~> 4.4', '>= 4.4.1'
 
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
+
+gem 'emorgan_view_tool', git: 'https://github.com/emorgandev/emorgan_view_tool'
